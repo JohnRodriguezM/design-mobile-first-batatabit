@@ -1,0 +1,14 @@
+/*font-family: 'Inter', sans-serif;
+font-family: 'DM Sans', sans-serif;*/
+
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{font-size:62.5%}
+header p
+
+{font-family: 'Inter', sans-serif;
+    font-size: 3rem;
+    font-weight: 300;}
