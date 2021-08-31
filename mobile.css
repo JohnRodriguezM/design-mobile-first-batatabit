@@ -198,12 +198,19 @@ background-color:#F8F8F8;
 /*tabla 2 usando table en html*/ /*section "2"*/
 
  .fondo{
+     margin-top: -290px;
      display:flex;
      flex-wrap: wrap;
      background-color:#F8F8F8;
      max-width: 820px;
      margin-left: auto;
      margin-right: auto;
+ }
+
+ 
+ .section_prueba_table:hover{
+    opacity: 0;
+
  }
  
  .section_prueba_table{
