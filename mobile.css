@@ -372,9 +372,9 @@ font-size: 1.7rem;
 
 
 .aside_left_grid_container{
-    width: 150px;
+    width: 155px;
     opacity: .7;
-    margin-left:-105px;
+    margin-left:-100px;
     background-color:#fff;
     z-index: 1;
     box-shadow: none;
@@ -388,7 +388,7 @@ aside{
     
 
     background-color:#fff;
-    width: 88.5%;
+    width: 90%;
 
     margin-left: auto;
     margin-right:auto;
@@ -400,8 +400,9 @@ aside{
 
 
 .aside_right_grid_container{
-    width: 150px;
-    margin-right: -105px;
+    width: 100%;
+    border-top-right-radius:0px;
+    border-bottom-right-radius: 0px;
     background-color:#fff;
     z-index: 2;
     opacity: .7;
@@ -513,4 +514,15 @@ footer div img{
 }
 
 /**/
+@media(min-width: 400px;){
 
+
+.aside_left_grid_container{
+    width: 155px;
+    opacity: .7;
+    margin-left:-100px;
+    background-color:#fff;
+    z-index: 1;
+    box-shadow: none;}
+
+}
