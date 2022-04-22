@@ -8,7 +8,7 @@ I started with mobile first because is so easy modify the elements when the scre
 
 ⚙️ see [here](https://johnrodriguezm.github.io/mobile_first/)
 
-the page to rate us is [this](https://johnrodriguezm.github.io/conexion_mobile_first/)
+the page to rate us is [url](https://johnrodriguezm.github.io/conexion_mobile_first/)
 
 Built with: 🛠️
 
